@@ -1,2 +1,1 @@
-# django-course-api-
-A simple Udemy-like backend. 
+# Multi-Tenant SaaS Task & Team Management Platform
